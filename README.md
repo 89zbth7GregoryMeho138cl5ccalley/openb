@@ -1,1 +1,1 @@
-# openb
+# openbInitialize README for Weather API
