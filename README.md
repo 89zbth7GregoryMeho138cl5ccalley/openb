@@ -9,3 +9,4 @@ Document auth header requirements
 Added table of contents
 Refactor README sections
 GET /weather/today - returns current weather
+GET /weather/forecast - returns 7-day forecast
