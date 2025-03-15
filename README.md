@@ -5,3 +5,4 @@ POST /weather/report - user weather reports
 Added response example for /weather/today
 Explain status codes
 GET /weather/history - returns past data
+Document auth header requirements
