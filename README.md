@@ -7,3 +7,4 @@ Explain status codes
 GET /weather/history - returns past data
 Document auth header requirements
 Added table of contents
+Refactor README sections
